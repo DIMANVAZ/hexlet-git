@@ -5,3 +5,4 @@ more
 moremore
 new line
 --line to be commited--
+experiment with amend
