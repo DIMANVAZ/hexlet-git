@@ -6,3 +6,4 @@ moremore
 new line
 --line to be commited--
 experiment with amend
+changed ingo.md
